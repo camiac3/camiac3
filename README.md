@@ -1,6 +1,6 @@
-# Welcome！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Welcome！
 
-𝗜'𝗺 [Camilo](https://www.linkedin.com/in/camilo-caldas-508a98135)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology**
+𝗜'𝗺 [Camilo](https://www.linkedin.com/in/camilo-caldas-508a98135)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology** or maybe give them happiness by being myself
 
 <h2 align="center">About me</h2>
 
