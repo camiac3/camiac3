@@ -9,7 +9,7 @@
 - 📉 I love playing with data, from Mysql, SQL server, postgresSQL to integrating it into Data Studio and sometimes with the help of Big Query. Tableau is great too.
 - 🚀 I like to play with interesting Machine Learning Python Scripts. (At the moment not at a professional level).
 - 🤖 Sometimes I make robots with AutoIT to help me do repetitive processes.
-- 🍄🌱 Due to my curiosity, I once started a mushroom company. Although I closed the cultivation, the idea is still valid here [HumanCode](https://growchamp.co/)
+- 🍄🌱 Due to my curiosity, I once started a mushroom company. Although I closed the cultivation, the idea is still valid here 🍄[GrowChamp](https://growchamp.co/)
 
 <h2 align="center">Also you can reach me at 💬</h2>
 
