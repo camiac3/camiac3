@@ -63,14 +63,14 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{BernardoAguayoOrtega}/count.svg" alt="BernardoAguayoOrtega :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{camiac3}/count.svg" alt="camiac3 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAguayoOrtega&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiac3&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=camiac3&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 
 ---
